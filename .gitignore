@@ -1,0 +1,8 @@
+﻿.idea/
+
+*.sln*
+
+
+bin/
+obj/
+packages/
